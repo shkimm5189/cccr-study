@@ -9,7 +9,7 @@ CCCR의 취뽀를 위한 스터디입니다.
 [정리 - GitHub](https://github.com/shkimm5189/today-i-learned)
 [Git 주소](https://github.com/shkimm5189)
 ## 이나영
-[정리 블로그 - Notion]()
+[정리 블로그 - Notion](https://www.notion.so/CCCR-4feb3f2b00b143ee8edaf7975fb9b272)
 [Git 주소](https://github.com/naa02)
 ## 정혜원
 [정리 블로그 - Naver]()
