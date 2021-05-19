@@ -4,6 +4,7 @@ CCCR의 취뽀를 위한 스터디입니다.
 # Study 멤버
 ## 김기돈
 [정리]
+[Git ](https://github.com/gd890121)
 
 ## 김성현
 [정리 - GitHub](https://github.com/shkimm5189/today-i-learned)<br>
