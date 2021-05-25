@@ -20,3 +20,5 @@
 # 10. /USR 폴더의 내용을 /root/usr.tar.bzip2 아카이브로 생성하시오, 단 bzip으로 압축되어야 합니다
 
 # 11.  /share 디렉토리를 client의 주소로만 공유하고 /mnt/share에 영구 마운트하세요
+
+# 12. server에서 /mydir 밑에 docs,pdf,test를 모든 사용자에게 읽기 권한으로만 설정하고 client에서 자동 마운트 방식으로 /mydir 마운트하세요 (docs,pdf,test)
